@@ -9,3 +9,6 @@ c:\users\heemesh\documents\visual studio 2015\Projects\DatabaseTest\DatabaseTest
 c:\users\heemesh\documents\visual studio 2015\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.csproj.GenerateResource.Cache
 c:\users\heemesh\documents\visual studio 2015\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.exe
 c:\users\heemesh\documents\visual studio 2015\Projects\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.pdb
+C:\Users\Heemesh\Documents\test\SQL_CONNECTION_TEST\DatabaseTest\DatabaseTest\bin\Debug\DatabaseTest.exe.config
+C:\Users\Heemesh\Documents\test\SQL_CONNECTION_TEST\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.exe
+C:\Users\Heemesh\Documents\test\SQL_CONNECTION_TEST\DatabaseTest\DatabaseTest\obj\Debug\DatabaseTest.pdb
