@@ -18,6 +18,7 @@ namespace DatabaseTest
         MySqlCommand Comm1;
         MySqlDataAdapter da;
         string connString;
+		// testing purposes 
 
         public Form1()
         {

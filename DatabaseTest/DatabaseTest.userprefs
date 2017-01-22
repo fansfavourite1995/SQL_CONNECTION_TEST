@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A5000713-D26B-42DF-B76A-B14D910C1E79}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseTest Status">
+    <Files>
+      <File FileName="DatabaseTest/Form1.cs" Line="21" Column="23" />
+      <File FileName="DatabaseTest Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DatabaseTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
