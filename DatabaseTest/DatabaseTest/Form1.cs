@@ -19,7 +19,9 @@ namespace DatabaseTest
         MySqlDataAdapter da;
         string connString;
 		// testing purposes 
-        //more test 
+        /// <summary>
+        // hello
+        /// </summary>
 
         public Form1()
         {
