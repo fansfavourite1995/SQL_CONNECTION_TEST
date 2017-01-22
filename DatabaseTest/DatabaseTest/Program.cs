@@ -11,6 +11,9 @@ namespace DatabaseTest
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// //hello world
+        /// Jas test - 23/01/17
+        /// heemish is gayyyyyyyyyyyyy
         [STAThread]
         static void Main()
         {
